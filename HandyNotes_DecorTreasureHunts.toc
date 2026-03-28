@@ -1,0 +1,20 @@
+## Interface: 120001
+## Title: HandyNotes: Decor Treasure Hunts
+## Notes: Where do the decor treasure hunt riddles send you?
+## Author: Kemayo
+## Version: @project-version@
+## IconTexture: Interface\Icons\Ability_Spy
+## DefaultState: enabled
+## X-Category: Map
+## X-eMail: kemayo @ gmail DOT com
+## X-Curse-Project-ID: 934070
+## X-Wago-ID: kGr0me6y
+## SavedVariables: HandyNotes_DecorTreasureHuntsDB
+## RequiredDeps: HandyNotes
+
+handler\handler.xml
+
+hunts.lua
+
+zones\FoundersPoint.lua
+zones\RazorwindShores.lua
