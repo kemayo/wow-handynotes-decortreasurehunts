@@ -3,7 +3,7 @@ local myname, ns = ...
 ns.RegisterDecorHuntPoints(ns.FOUNDERSPOINT, {
     [21003000] = {quest=92997, loot={{246107, decor=true}}, note="Outside outer banks. Where crabs claim an island shore. Sift through the driftwood."}, -- Large Sturdy Wooden Table
     [26203790] = {quest=92998, loot={{246102, decor=true}}, note="An old flag flutters. A platform grants ocean views. Look below the stairs."}, -- Large Covered Wooden Table
-    [28304010] = {quest=92999, loot={{245662, decor=true}}, note="Boardwalk lies broken. Sand bars cradle what remains. Seek out the lone plank."}, -- Carved Wooden Bar Table
+    [28334014] = {quest=92999, loot={{245662, decor=true}}, note="Boardwalk lies broken. Sand bars cradle what remains. Seek out the lone plank."}, -- Carved Wooden Bar Table
     [28504480] = {quest=92980, loot={{245556, decor=true}}, note="Gulls scream for free meals. Salt clings to fishmonger scales. Seek the barnacles."}, -- Iron-Reinforced Standing Mirror
     [29002810] = {quest=92996, loot={{246502, decor=true}}, note="Stairs snake up the bluffs. A pier juts over shallows. Seek the shade below."}, -- Charming Couch
     [29804840] = {quest=92981, loot={{245547, decor=true}}, note="Watcher on the shore. Where ships drop anchor and make berth. Look where crabs scuttle."}, -- Wide Charming Couch
